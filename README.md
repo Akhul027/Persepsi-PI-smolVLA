@@ -12,7 +12,7 @@ This repository contains only the inference server component. Robot client scrip
 [![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-FFD21E?logo=huggingface\&logoColor=black)](https://huggingface.co/datasets/poi69420/so101_red_screwdriver_to_yellow_container_merged_564eps_12s_20260710_15hz/tree/main)
 [![Trained Model](https://img.shields.io/badge/Trained%20Model-Hugging%20Face-FFD21E?logo=huggingface\&logoColor=black)](https://huggingface.co/poi69420/smolvla_screwdriver_merged564_15hz_30k)
 
-* **Demonstration and report video:** [Open Google Drive](https://drive.google.com/file/d/1sl1HMC3YmPpi9JftbSqY9eQKZ0Fj7Ez1/view?usp=drivesdk)
+* **Demonstration and report video:** [Open Google Drive](https://drive.google.com/drive/folders/1mNWWpAHWhjjQspiUgFJtm8V7bT8T2Zjr?usp=sharing)
 * **Training dataset:** [Open Hugging Face Dataset](https://huggingface.co/datasets/poi69420/so101_red_screwdriver_to_yellow_container_merged_564eps_12s_20260710_15hz/tree/main)
 * **Trained SmolVLA model:** [Open Hugging Face Model](https://huggingface.co/poi69420/smolvla_screwdriver_merged564_15hz_30k)
 
@@ -228,7 +228,7 @@ Model repository:
 
 The demonstration and project report video can be accessed through Google Drive:
 
-[Project Demonstration and Report Video](https://drive.google.com/file/d/1sl1HMC3YmPpi9JftbSqY9eQKZ0Fj7Ez1/view?usp=drivesdk)
+[Project Demonstration and Report Video](https://drive.google.com/drive/folders/1mNWWpAHWhjjQspiUgFJtm8V7bT8T2Zjr?usp=sharing)
 
 ## Notes
 
