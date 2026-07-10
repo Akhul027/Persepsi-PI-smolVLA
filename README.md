@@ -1,8 +1,13 @@
-# LeRobot SO-101 VLA Inference Server
+# Persepsi Robot: Pi and SmolVLA Inference Server
 
-This repository contains the inference server used to run a LeRobot Vision-Language-Action policy on a Linux computer equipped with an NVIDIA RTX GPU.
+This repository contains the inference server implementation used in an SO-101 robot perception project using Vision-Language-Action policies from the Hugging Face LeRobot framework.
 
-The server receives robot observations and camera images through HTTP requests, processes them using a trained policy, and returns predicted robot actions.
+The inference server runs on a Linux computer equipped with an NVIDIA RTX GPU. It receives robot observations and camera images through HTTP requests, processes them using a trained policy, and returns predicted robot actions.
+
+## Project Members
+
+1. `<Malvin T>` — `<5024231004>`
+2. `<Syela Akhul Khalimi>` — `5024231015`
 
 ## Repository Structure
 
@@ -20,7 +25,7 @@ The server receives robot observations and camera images through HTTP requests, 
 
 ## Running the Server
 
-Configure the policy type, model checkpoint path, task instruction, and server port inside `run_server.sh`.
+Configure the policy type, model checkpoint path, task instruction, and server port inside `inference_server/run_server.sh`.
 
 Run the server directly:
 
@@ -49,7 +54,7 @@ bash stop_server.sh
 
 ## API Endpoints
 
-The server provides the following endpoints:
+The inference server provides the following endpoints:
 
 * `GET /health`
 * `POST /predict`
@@ -61,7 +66,7 @@ The server provides the following endpoints:
 
 Model checkpoints, datasets, logs, and local environment files are not included in this repository.
 
-The model path and policy configuration must be adjusted according to the environment used on the inference computer.
+The policy type, model path, task instruction, and server configuration must be adjusted according to the environment used on the inference computer.
 
 This repository contains experimental code developed for an academic robotics project.
 
@@ -69,3 +74,4 @@ This repository contains experimental code developed for an academic robotics pr
 
 * [Hugging Face LeRobot](https://github.com/huggingface/lerobot)
 * [LeRobot SO-101 SmolVLA Pick and Place](https://github.com/rxceed/lerobot-so101-smolvla-pick-and-place)
+
