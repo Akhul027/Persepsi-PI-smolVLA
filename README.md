@@ -8,7 +8,7 @@ This repository contains only the inference server component. Robot client scrip
 
 ## Quick Links
 
-[![Demo Video](https://img.shields.io/badge/Demo%20Video-Google%20Drive-4285F4?logo=googledrive\&logoColor=white)](https://drive.google.com/file/d/1sl1HMC3YmPpi9JftbSqY9eQKZ0Fj7Ez1/view?usp=drivesdk)
+[![Demo Video](https://drive.google.com/drive/folders/1mNWWpAHWhjjQspiUgFJtm8V7bT8T2Zjr?usp=sharing)
 [![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-FFD21E?logo=huggingface\&logoColor=black)](https://huggingface.co/datasets/poi69420/so101_red_screwdriver_to_yellow_container_merged_564eps_12s_20260710_15hz/tree/main)
 [![Trained Model](https://img.shields.io/badge/Trained%20Model-Hugging%20Face-FFD21E?logo=huggingface\&logoColor=black)](https://huggingface.co/poi69420/smolvla_screwdriver_merged564_15hz_30k)
 
