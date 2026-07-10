@@ -16,7 +16,7 @@ The inference server runs on a Linux computer equipped with an NVIDIA RTX GPU. I
 
 ## Project Members
 
-1. Malvin T — 5024231004
+1. Fioreno Malvin T — 5024231004
 2. Syela Akhul Khalimi — 5024231015
 
 ## Project Task
